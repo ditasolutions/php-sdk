@@ -1,0 +1,9 @@
+{
+    "name": "dita/dita",
+    "autoload": {
+        "psr-4": {
+            "Dita\\Dita\\": "src/"
+        }
+    },
+    "require": {}
+}
